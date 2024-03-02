@@ -1,3 +1,5 @@
+%global debug_package %{nil}
+
 # Run tests in check section
 %bcond_without check
 
