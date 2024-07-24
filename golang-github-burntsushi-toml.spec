@@ -6,7 +6,7 @@
 # https://github.com/BurntSushi/toml
 %global goipath		github.com/BurntSushi/toml
 %global forgeurl	https://github.com/BurntSushi/toml
-Version:		1.3.2
+Version:		1.4.0
 
 %gometa
 
