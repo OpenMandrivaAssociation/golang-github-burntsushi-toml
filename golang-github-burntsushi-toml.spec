@@ -6,7 +6,7 @@
 # https://github.com/BurntSushi/toml
 %global goipath		github.com/BurntSushi/toml
 %global forgeurl	https://github.com/BurntSushi/toml
-Version:		1.4.0
+Version:		1.5.0
 
 %gometa
 
@@ -49,7 +49,7 @@ BuildArch:	noarch
 #-----------------------------------------------------------------------
 
 %prep
-%autosetup -p1 -n toml-%{version}
+%autosetup -p1 -n toml-1.5.0
 
 %build
 %gobuildroot
